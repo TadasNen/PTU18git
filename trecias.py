@@ -53,3 +53,6 @@ for el in pasw:
     password += el
 
 print(f"Your password is: {password}")
+
+#padarytas commitas
+print("Padarem commit 1 sukure faila")
