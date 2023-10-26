@@ -1,1 +1,1 @@
-print("Hello new project")git
+print("Hello new project")
